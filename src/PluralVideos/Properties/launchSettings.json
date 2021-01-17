@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PluralVideos.Download": {
+      "commandName": "Project",
+      "commandLineArgs": "decrypt --out C:\\Perso\\Pluralsight\\Test --coursetag introduction-az-400-designing-implementing-microsoft-devops-solutions-exam --trans"
+    }
+  }
+}
